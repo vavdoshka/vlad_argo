@@ -1,0 +1,3 @@
+releases:
+  - name: workflow-1
+    chart: templates/
